@@ -1,4 +1,3 @@
-import sys
 MAX = 10 ** 6
 START = 1
 
